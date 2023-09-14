@@ -1,0 +1,147 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+header {
+    background-color: #96B6C5;
+    color: white;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+h2 {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: #B6CCD6;
+    border-radius: 1opx;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+    margin-left: 250px;  
+}
+
+.wrapper{
+    margin-left: 40%; 
+
+}
+
+.rumus h3{
+    font-family:'Courier New', Courier, monospace;
+    margin-left: 35%;
+    font-size: 25px;
+}
+
+.rumus span{
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-right: 30%;
+    display: block;
+    font-size: 20px;
+    margin-left: 30%;  
+}
+
+strong{
+    background-color: #D5E2E8;
+    border-radius: 4px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20%;
+    margin-left: 40%;  
+    font-size: 15px;
+}
+
+
+.TextCenter {
+    display: block;
+    margin-left:30%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    
+   
+}
+
+.text-box h2{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: #B6CCD6;
+    border-radius: 4px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+    margin-left: 250px;   
+}
+
+.row{
+    margin-left: 40%;
+
+}
+h5{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: medium;
+}
+input{
+ font-size: 14px;
+ padding: 10px;
+ border: 1px solid #96B6C5;
+ border-radius: 4px;
+ outline: none;
+}
+
+Button{
+    padding: 10px 20px;
+    border-bottom: 4px;
+    border: none;
+    font-weight: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    background-color: #697F8A;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    
+
+}
+
+#Hasil{
+    font-style: italic;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #D5E2E8;
+    margin-right: 70%;
+    justify-content: center;
+    text-align: center;
+    border-radius: 4px;
+    
+
+}
+
+button:hover{
+    background-color: #96B6C5;
+}
+
+button:active{
+    transform: translateY(2px);
+}
+
+.inputButtonSection {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px;
+    
+    
+}
+    
+
+
+ 
+
+
